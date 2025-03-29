@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`816adc5`](https://github.com/stdlib-js/stdlib/commit/816adc5f64961310698b850e2b8bb4d472fa9127) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`bda8f55`](https://github.com/stdlib-js/stdlib/commit/bda8f55013e5567a5f09a577c1f423da0f03f68b) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`90ed2f3`](https://github.com/stdlib-js/stdlib/commit/90ed2f36fe7dfc538820a36e5f695923af6b4a9f) - **feat:** add `stats/strided/dminabs` _(by Aayush Khanna)_
 
