@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dminabs@esm/index.mjs';
+import dminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dminabs@v0.1.0-esm/index.mjs';
 ```
 
 #### dminabs( N, x, strideX )
@@ -150,7 +150,7 @@ var v = dminabs.ndarray( 4, x, 2, 1 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import dminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dminabs@esm/index.mjs';
+import dminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dminabs@v0.1.0-esm/index.mjs';
 
 var x = discreteUniform( 10, -50, 50, {
     'dtype': 'float64'
