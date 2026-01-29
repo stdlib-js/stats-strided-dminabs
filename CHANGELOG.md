@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2026-01-09)
+## 0.1.0 (2026-01-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`5f66676`](https://github.com/stdlib-js/stdlib/commit/5f666765772650801c7ba6f73237c85bb67c1574) - **bench:** refactor to use dynamic memory allocation in `stats/strided/dminabs` [(#9605)](https://github.com/stdlib-js/stdlib/pull/9605) _(by Vishal Gaikwad)_
 -   [`e22fdd7`](https://github.com/stdlib-js/stdlib/commit/e22fdd7fbc032bbfd0ea908aa743bb49111c9b73) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
@@ -39,9 +40,10 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
 -   Gururaj Gurram
 -   Philipp Burckhardt
 -   Vishal Gaikwad
