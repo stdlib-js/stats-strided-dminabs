@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-23)
+## Unreleased (2026-11-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`a19106c`](https://github.com/stdlib-js/stdlib/commit/a19106c4c096cbfcc5d17ebfb036bf6fc22585d2) - **refactor:** use `constants/float64/nan` in `stats/strided/dminabs` [(#16870)](https://github.com/stdlib-js/stdlib/pull/16870) _(by Uday Gund)_
 -   [`d6c72a0`](https://github.com/stdlib-js/stdlib/commit/d6c72a042cca76e97759951cdbf89375b784e16a) - **bench:** refactor to use string interpolation in `stats/strided` [(#11359)](https://github.com/stdlib-js/stdlib/pull/11359) _(by Karan Anand)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Uday Gund
 
 </section>
 
